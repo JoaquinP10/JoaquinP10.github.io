@@ -13,8 +13,8 @@ Joaquín Pozo is a mechatronics engineer who designs and develops experimental r
 - Control engineering
 
 **Links**
-- LinkedIn: [Coming soon]
-- CV: [Coming soon]
+- [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-enrique-pozo-garc%C3%ADa-1393a12a9/)
+- [CV](images/CV_Joaquin_Pozo.pdf)
 
 ---
 
@@ -29,7 +29,7 @@ Pontificia Universidad Católica del Perú (PUCP)
 ---
 
 ## Robotic Coffee Preparation Station
-![Project image](images/coffee_robot.jpeg)
+![Project image](images/coffee_robot.jpg)
 
 Autonomous robotic system capable of preparing pour-over coffee using coordinated robotic arms, machine vision, and state-machine based control.
 
@@ -52,7 +52,7 @@ Video: [Trayectory tracking in final course maze](images/diff_video.mp4)
 
 Simulation and control design for CubeSat attitude stabilization using nonlinear spacecraft dynamics and advanced control techniques.
 
-Paper: ![Comparative Analysis of Linear and Nonlinear
+Paper: [Comparative Analysis of Linear and Nonlinear
 Attitude Control Strategies for a CubeSat](images/Cubesat_draft.pdf)
 
 ---
